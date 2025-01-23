@@ -1,2 +1,0 @@
-# ExpenseTracker
- Monthly Expense Tracker
